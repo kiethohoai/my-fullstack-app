@@ -10,7 +10,6 @@ function App() {
       <Hero />
       <Contact />
       <Footer />
-      {2 + 2}
     </div>
   );
 }

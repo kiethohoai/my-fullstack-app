@@ -10,3 +10,4 @@
 8. Primary Understanding On Component Part 1
 9. Primary Understanding On Component Part 2
 10. JSX And Conventions
+11. JSX Short Hand If else
