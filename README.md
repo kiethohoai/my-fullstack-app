@@ -16,3 +16,4 @@
 14. JSX Conditional Rendering Using If Else
 15. JSX Conditional Rendering Using Switch Statement
 16. JSX Conditional Rendering Using Ternary Operator
+17. JSX Conditional Rendering Using Logical And And

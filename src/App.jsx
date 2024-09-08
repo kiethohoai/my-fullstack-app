@@ -1,6 +1,6 @@
 function App() {
-  const test = false;
-  return <>{test ? <h1>True</h1> : <h1>False</h1>}</>;
+  const temp = false;
+  return <div>{temp && <h1>Rendering And And</h1>}</div>;
 }
 
 export default App;
