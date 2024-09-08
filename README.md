@@ -14,3 +14,4 @@
 12. JSX Immediately invoked function
 13. JSX Loop Inside
 14. JSX Conditional Rendering Using If Else
+15. JSX Conditional Rendering Using Switch Statement
