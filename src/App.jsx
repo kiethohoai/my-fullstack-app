@@ -1,6 +1,6 @@
 function App() {
-  const temp = false;
-  return <div>{temp && <h1>Rendering And And</h1>}</div>;
+  const temp = true;
+  return <div>{temp ? <button>Login</button> : <button>Log out</button>}</div>;
 }
 
 export default App;

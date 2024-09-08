@@ -17,3 +17,4 @@
 15. JSX Conditional Rendering Using Switch Statement
 16. JSX Conditional Rendering Using Ternary Operator
 17. JSX Conditional Rendering Using Logical And And
+18. JSX Conditional Rendering Using Immidiatly Invoked Function
