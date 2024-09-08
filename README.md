@@ -11,3 +11,4 @@
 9. Primary Understanding On Component Part 2
 10. JSX And Conventions
 11. JSX Short Hand If else
+12. JSX Immediately invoked function
