@@ -12,3 +12,4 @@
 10. JSX And Conventions
 11. JSX Short Hand If else
 12. JSX Immediately invoked function
+13. JSX Loop Inside
