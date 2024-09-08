@@ -15,3 +15,4 @@
 13. JSX Loop Inside
 14. JSX Conditional Rendering Using If Else
 15. JSX Conditional Rendering Using Switch Statement
+16. JSX Conditional Rendering Using Ternary Operator

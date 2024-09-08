@@ -1,17 +1,6 @@
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import Header from './components/Header';
-import Hero from './components/Hero';
-
 function App() {
-  return (
-    <div>
-      <Header />
-      <Hero />
-      <Contact />
-      <Footer />
-    </div>
-  );
+  const test = false;
+  return <>{test ? <h1>True</h1> : <h1>False</h1>}</>;
 }
 
 export default App;
